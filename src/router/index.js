@@ -10,28 +10,28 @@ const router = createRouter({
       name: 'home',
       component: Loader,
       meta: {
-        title: 'Portfolio | Paul Jaguin - Développeur Web',
+        title: 'Portfolio | Đoàn Hiếu PRO',
         metaTags: [
           {
             rel: 'canonical',
-            href: 'https://pauljaguin.com'
+            href: 'https://windowxp.vercel.app'
           },
           {
             name: 'title',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Đoàn Hiếu PRO'
           },
           {
             name: 'description',
             content:
-              "Découvrez le portfolio de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Đam mê công nghệ, không ngừng khám phá, học hỏi, phát triển"
           },
           {
             name: 'keywords',
-            content: 'portfolio, paul jaguin, développeur web, full stack, sites web, applications web, applications mobiles, JS, PHP, SQL, ORM, frameworks, DevOps'
+            content: 'portfolio, Doan Hieu, developpeur web, full stack, sites web, applications web, applications mobiles, JS, PHP, SQL, ORM, frameworks, DevOps'
           },
           {
             name: 'author',
-            content: 'Paul Jaguin'
+            content: 'Đoàn Hiếu'
           },
           {
             name: 'robots',
@@ -51,11 +51,11 @@ const router = createRouter({
           },
           {
             name: 'apple-mobile-web-app-title',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Đoàn Hiếu PRO'
           },
           {
             name: 'application-name',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Đoàn Hiếu PRO'
           },
           {
             name: 'twitter:card',
@@ -63,12 +63,12 @@ const router = createRouter({
           },
           {
             name: 'twitter:title',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Đoàn Hiếu PRO'
           },
           {
             name: 'twitter:description',
             content:
-              "Découvrez le portfolio de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Đam mê công nghệ, không ngừng khám phá, học hỏi, phát triển"
           },
           {
             name: 'twitter:image',
@@ -84,16 +84,16 @@ const router = createRouter({
           },
           {
             property: 'og:title',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Đoàn Hiếu PRO'
           },
           {
             property: 'og:description',
             content:
-              "Découvrez le portfolio de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Đam mê công nghệ, không ngừng khám phá, học hỏi, phát triển"
           },
           {
             property: 'og:site_name',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Đoàn Hiếu PRO'
           },
           {
             property: 'og:url',
@@ -109,11 +109,11 @@ const router = createRouter({
           },
           {
             property: 'og:locale',
-            content: 'fr_FR'
+            content: 'en_US'
           },
           {
             property: 'og:locale:alternate',
-            content: 'en_US'
+            content: 'fr_FR'
           }
         ]
       }
@@ -123,7 +123,7 @@ const router = createRouter({
       name: 'Office',
       component: Office,
       meta: {
-        title: 'Bureau | Paul Jaguin - Développeur Web',
+        title: 'Bureau | Đoàn Hiếu PRO',
         metaTags: [
           {
             rel: 'canonical',
@@ -131,20 +131,20 @@ const router = createRouter({
           },
           {
             name: 'title',
-            content: 'Bureau | Paul Jaguin - Développeur Web'
+            content: 'Bureau | Đoàn Hiếu PRO'
           },
           {
             name: 'description',
             content:
-              "Découvrez le bureau de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Đam mê công nghệ, không ngừng khám phá, học hỏi, phát triển"
           },
           {
             name: 'keywords',
-            content: 'bureau, paul jaguin, développeur web, full stack, sites web, applications web, applications mobiles, JS, PHP, SQL, ORM, frameworks, DevOps'
+            content: 'bureau, Doan Hieu, developer web, full stack, sites web, applications web, applications mobiles, JS, PHP, SQL, ORM, frameworks, DevOps'
           },
           {
             name: 'author',
-            content: 'Paul Jaguin'
+            content: 'Đoàn Hiếu'
           },
           {
             name: 'robots',
@@ -164,11 +164,11 @@ const router = createRouter({
           },
           {
             name: 'apple-mobile-web-app-title',
-            content: 'Bureau | Paul Jaguin - Développeur Web'
+            content: 'Bureau | Đoàn Hiếu PRO'
           },
           {
             name: 'application-name',
-            content: 'Bureau | Paul Jaguin - Développeur Web'
+            content: 'Bureau | Đoàn Hiếu PRO'
           },
           {
             name: 'twitter:card',
@@ -176,12 +176,12 @@ const router = createRouter({
           },
           {
             name: 'twitter:title',
-            content: 'Bureau | Paul Jaguin - Développeur Web'
+            content: 'Bureau | Đoàn Hiếu PRO'
           },
           {
             name: 'twitter:description',
             content:
-              "Découvrez le bureau de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Đam mê công nghệ, không ngừng khám phá, học hỏi, phát triển"
           },
           {
             name: 'twitter:image',
@@ -197,16 +197,16 @@ const router = createRouter({
           },
           {
             name: 'og:title',
-            content: 'Bureau | Paul Jaguin - Développeur Web'
+            content: 'Bureau | Đoàn Hiếu PRO'
           },
           {
             name: 'og:description',
             content:
-              "Découvrez le bureau de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Đam mê công nghệ, không ngừng khám phá, học hỏi, phát triển"
           },
           {
             name: 'og:site_name',
-            content: 'Bureau | Paul Jaguin - Développeur Web'
+            content: 'Bureau | Đoàn Hiếu PRO'
           },
           {
             name: 'og:url',
@@ -222,11 +222,11 @@ const router = createRouter({
           },
           {
             name: 'og:locale',
-            content: 'fr_FR'
+            content: 'en_US'
           },
           {
             name: 'og:locale:alternate',
-            content: 'en_US'
+            content: 'fr_FR'
           }
         ]
       }
