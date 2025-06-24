@@ -123,7 +123,7 @@ const router = createRouter({
       name: 'Office',
       component: Office,
       meta: {
-        title: 'Bureau | Đoàn Hiếu PRO',
+        title: 'Desktop | Đoàn Hiếu PRO',
         metaTags: [
           {
             rel: 'canonical',
@@ -131,7 +131,7 @@ const router = createRouter({
           },
           {
             name: 'title',
-            content: 'Bureau | Đoàn Hiếu PRO'
+            content: 'Desktop | Đoàn Hiếu PRO'
           },
           {
             name: 'description',
@@ -168,7 +168,7 @@ const router = createRouter({
           },
           {
             name: 'application-name',
-            content: 'Bureau | Đoàn Hiếu PRO'
+            content: 'Desktop | Đoàn Hiếu PRO'
           },
           {
             name: 'twitter:card',
@@ -176,7 +176,7 @@ const router = createRouter({
           },
           {
             name: 'twitter:title',
-            content: 'Bureau | Đoàn Hiếu PRO'
+            content: 'Desktop | Đoàn Hiếu PRO'
           },
           {
             name: 'twitter:description',
@@ -197,7 +197,7 @@ const router = createRouter({
           },
           {
             name: 'og:title',
-            content: 'Bureau | Đoàn Hiếu PRO'
+            content: 'Desktop | Đoàn Hiếu PRO'
           },
           {
             name: 'og:description',
@@ -206,7 +206,7 @@ const router = createRouter({
           },
           {
             name: 'og:site_name',
-            content: 'Bureau | Đoàn Hiếu PRO'
+            content: 'Desktop | Đoàn Hiếu PRO'
           },
           {
             name: 'og:url',
