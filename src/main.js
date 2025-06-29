@@ -17,7 +17,7 @@ const pinia = createPinia()
 const head = createHead()
 const i18n = createI18n({
   legacy: false,
-  locale: localStorage.getItem('currentLocale') || 'fr',
+  locale: localStorage.getItem('currentLocale') || 'en',
   fallbackLocale: 'en',
   messages: {
     en,
