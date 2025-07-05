@@ -32,7 +32,7 @@ app.use(i18n)
 
 if (import.meta.env.MODE === 'production') {
   app.use(VueMatomo, {
-    host: 'https://matomo.rocketegg.systems',
+    host: '/',
     siteId: 1
   })
   window._paq.push(['trackPageView'])
